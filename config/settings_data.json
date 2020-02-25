@@ -1,0 +1,1983 @@
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#000000",
+    "color_button": "#000000",
+    "color_button_text": "#ffffff",
+    "color_cart_dot": "#ff4f33",
+    "color_cart_dot_text": "#fff",
+    "color_alt_bg": "#ffffff",
+    "color_alt_text": "#000000",
+    "color_announcement": "#000000",
+    "color_announcement_text": "#ffffff",
+    "color_newsletter": "#686566",
+    "color_newsletter_text": "#ffffff",
+    "color_drawer_background": "#ffffff",
+    "color_drawer_text": "#000000",
+    "color_image_text": "#fff",
+    "color_image_overlay": "#000",
+    "color_image_overlay_opacity": 10,
+    "color_image_overlay_text_shadow": 30,
+    "color_small_image_bg": "#f0f0f0",
+    "color_large_image_bg": "#000000",
+    "type_header_font_family": "archivo_i7",
+    "type_header_capitalize": true,
+    "type_header_spacing": 25,
+    "type_header_base_size": 35,
+    "type_header_line_height": 0.9,
+    "type_base_font_family": "archivo_n4",
+    "type_product_capitalize": false,
+    "type_base_spacing": 50,
+    "type_base_size": 15,
+    "type_base_line_height": 1,
+    "button_type_style": "caps",
+    "button_style": "round",
+    "type_navigation_size": 20,
+    "animate_images": false,
+    "animate_page_transitions": true,
+    "logo_loader_image": "",
+    "desktop_loader_width": 80,
+    "mobile_loader_width": 50,
+    "product_hover_details": false,
+    "product_hover_image": true,
+    "product_image_scatter": false,
+    "product_grid_image_size": "natural",
+    "vendor_enable": false,
+    "product_save_amount": false,
+    "product_save_type": "dollar",
+    "product_color_swatches": true,
+    "collection_color_swatches": true,
+    "product_video_width": "750",
+    "product_video_height": "1125",
+    "product_video_style": "muted",
+    "additional_content_style": "tab",
+    "product_content_1": "",
+    "product_content_2": "",
+    "product_content_3": "",
+    "product_contact": false,
+    "product_contact_title": "Ask a question",
+    "product_contact_show_phone": false,
+    "enable_product_reviews": true,
+    "enable_product_reviews_collection": true,
+    "quick_shop_enable": false,
+    "quick_shop_style": "full",
+    "product_image_size": "large",
+    "product_image_type": "stacked",
+    "product_zoom_enable": true,
+    "product_shipping_callout": "",
+    "sku_enable": false,
+    "inventory_enable": false,
+    "inventory_threshold": 10,
+    "social_enable": true,
+    "cart_type": "page",
+    "cart_additional_buttons": false,
+    "cart_notes_enable": false,
+    "cart_terms_conditions_enable": false,
+    "cart_terms_conditions_link": "#",
+    "enable_currencies": false,
+    "currency_format": "money_format",
+    "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+    "social_instagram_link": "https:\/\/www.instagram.com\/woodroadgearco\/",
+    "social_facebook_link": "https:\/\/www.facebook.com\/woodroadgearco\/",
+    "social_twitter_link": "https:\/\/twitter.com\/woodroadgearco",
+    "social_pinterest_link": "",
+    "social_snapchat_link": "",
+    "social_tumblr_link": "",
+    "social_linkedin_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "homepage_social_image": "",
+    "favicon": "",
+    "search_type": "product",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Woodroad_Packaging_Logo_BW.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#111111",
+    "checkout_button_color": "#111111",
+    "checkout_error_color": "#ff6d6d",
+    "animate_page_transition_style": "page-logo",
+    "animate_images_style": "fade-in",
+    "animate_underlines": true,
+    "color_borders": "#4f1c3a",
+    "color_drawer_border": "#e8e8e1",
+    "color_drawer_button": "#561d3a",
+    "color_drawer_button_text": "#fff6f0",
+    "color_modal_overlays": "#000",
+    "color_footer": "#fff6f0",
+    "color_footer_text": "#4f1c3a",
+    "color_image_2": "#000000",
+    "color_image_2_opacity": 0,
+    "color_image_1": "#000000",
+    "color_image_1_opacity": 0,
+    "animate_sections": true,
+    "animate_sections_background_style": "fade-in",
+    "animate_sections_text_style": "rise-up",
+    "color_header": "#fff6f0",
+    "color_header_text": "#4f1c3a",
+    "type_header_header_transform": false,
+    "type_header_accent_transform": false,
+    "type_headers_align_text": true,
+    "type_base_accent_transform": true,
+    "icon_weight": "4px",
+    "icon_linecaps": "miter",
+    "product_grid_size": "medium",
+    "reviews_layout": "full",
+    "animate_buttons": true,
+    "color_image_bg": "#000000",
+    "color_sale_tag": "#990000",
+    "color_input": "#ffffff",
+    "checkout_banner_background_color": "#fff",
+    "checkout_call_to_action_color": "#a26b25",
+    "checkout_use_header_image": false,
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "header_style": "bar",
+          "main_menu_alignment": "left-center",
+          "sticky_index": true,
+          "sticky_collection": false,
+          "header_search_enable": true,
+          "logo": "shopify:\/\/shop_images\/black-rectangle3.png",
+          "logo-inverted": "shopify:\/\/shop_images\/white-rectangle3.png",
+          "desktop_logo_width": 200,
+          "mobile_logo_width": 80,
+          "logo_hide_mobile": true,
+          "main_menu_link_list": "main-menu",
+          "show_announcement": true,
+          "show_announcement_home_only": false,
+          "announcement_text": "FREE SHIPPING ON ALL ORDERS",
+          "announcement_link": "shopify:\/\/pages\/socks-for-veterans-sale"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "show_newsletter": false,
+          "newsletter_title": "SIGN UP",
+          "newsletter_richtext": "<p>JOIN OUR&nbsp;EMAIL LIST AND&nbsp;GET 15% OFF YOUR FIRST ORDER<\/p>",
+          "show_social_icons": true,
+          "menu": "footer",
+          "show_payment_icons": true,
+          "show_copyright": true,
+          "copyright_text": ""
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "collection_image_enable": true,
+          "collection_tags_enable": false,
+          "collection_sort_enable": false,
+          "per_row_desktop": 3,
+          "per_row_mobile": "1"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_image_size": "large",
+          "product_image_type": "stacked",
+          "product_zoom_enable": true,
+          "enable_payment_button": true,
+          "product_shipping_callout": "",
+          "variant_type": "button",
+          "variant_labels_enable": true,
+          "sku_enable": false,
+          "inventory_enable": false,
+          "inventory_threshold": 10,
+          "quantity_enable": false,
+          "social_enable": true
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_image": true,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "social_sharing_blog": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "grid",
+          "post_limit": 9,
+          "blog_show_tag_filter": true,
+          "blog_show_rss": false,
+          "blog_show_tags": true,
+          "blog_show_date": true,
+          "blog_show_comments": true,
+          "blog_show_author": false,
+          "blog_show_excerpt": false,
+          "blog_image_size": "wide"
+        }
+      },
+      "product-sections": {
+        "type": "product-sections",
+        "settings": {}
+      },
+      "page-sections-template": {
+        "type": "page-sections-template",
+        "blocks": {
+          "1573159234643": {
+            "type": "image-hero",
+            "settings": {
+              "title": "",
+              "title_size": 87,
+              "subheading": "",
+              "link": "shopify:\/\/collections\/frontpage",
+              "link_text": "",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/veterans-day-sale-mobile.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1573160516240": {
+            "type": "rich-text",
+            "settings": {
+              "title": "",
+              "text": "<p>Founded by an Army veteran,&nbsp; Woodroad Gear Co. is based on shared military values of hard work, honor, and integrity, and we believe in celebrating our veterans and active duty every day.&nbsp;<\/p>\n<p>As an appreciation of your efforts, fellow vets, current military members, and first responders always receive a 20% discount on all Woodroad products, not just as a promotional gimmick for July 4th, Veterans Day, or other relevant celebrations.<\/p>\n<p><strong>Get your 20% off discount with <a href=\"https:\/\/shopify.id.me\/oauth\/groups\/apline-stride\" title=\"https:\/\/shopify.id.me\/oauth\/groups\/apline-stride\">ID.me<\/a>&nbsp;verification.<\/strong><\/p>\n<p><\/p>\n<p>Thank you for your support of Woodroad as well as of other Veteran-founded businesses.&nbsp; We work hard to make the most comfortable and durable socks in the world, and we&rsquo;re honored to have you as a part of our Woodroad family.<\/p>\n<p><\/p>",
+              "align_text": "center",
+              "narrow_column": true,
+              "enlarge_text": true,
+              "alt": false
+            }
+          },
+          "1573246934833": {
+            "type": "featured-collection",
+            "settings": {
+              "title": "",
+              "collection": "frontpage",
+              "rows": 2,
+              "per_row_desktop": 3,
+              "per_row_mobile": "1",
+              "view_all": true,
+              "alt": false
+            }
+          },
+          "1571694682668": {
+            "type": "contact-form",
+            "settings": {
+              "title": "Contact us",
+              "show_phone": false,
+              "narrow_column": true
+            }
+          }
+        },
+        "block_order": [
+          "1573159234643",
+          "1573160516240",
+          "1573246934833",
+          "1571694682668"
+        ],
+        "settings": {
+          "page_title_enable": false,
+          "page_content_enable": false
+        }
+      },
+      "newsletter-popup": {
+        "type": "newsletter-popup",
+        "settings": {
+          "mode": "disabled",
+          "popup_seconds": 5,
+          "popup_days": 30,
+          "popup_title": "Sign up and save",
+          "popup_text": "<p>Entice customers to sign up for your mailing list with discounts or exclusive offers.<\/p>",
+          "enable_newsletter": true,
+          "button_label": "sign up",
+          "button_link": ""
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "title_enable": true,
+          "display_type": "all",
+          "sort": "alphabetical"
+        }
+      },
+      "1556162914490": {
+        "type": "featured-collection-slider",
+        "disabled": true,
+        "settings": {
+          "title": "Merino Blend",
+          "description": "",
+          "home_featured_products": "",
+          "per_row": "small",
+          "alt": false
+        }
+      },
+      "1559098181700": {
+        "type": "slideshow",
+        "blocks": {
+          "1559098181700-0": {
+            "type": "image",
+            "settings": {
+              "title": "PURSUIT-DRIVEN PRODUCTS",
+              "title_size": 41,
+              "subheading": "INTENTIONAL DESIGN. INNOVATIVE MATERIALS.  DURABLE CONSTRUCTION.",
+              "link": "shopify:\/\/collections\/all",
+              "link_text": "FIND YOUR FIT",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/binoculars.jpg",
+              "image_mobile": ""
+            }
+          }
+        },
+        "block_order": [
+          "1559098181700-0"
+        ],
+        "settings": {
+          "style": "minimal",
+          "autoplay": false,
+          "autoplay_speed": 10
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": false,
+          "product_recommendations_heading": "You may also like",
+          "per_row": "small"
+        }
+      },
+      "1559585995085": {
+        "type": "featured-collection-slider",
+        "settings": {
+          "title": "NEW ARRIVALS",
+          "description": "",
+          "home_featured_products": "frontpage",
+          "per_row": "medium",
+          "alt": true
+        }
+      },
+      "1559586187853": {
+        "type": "newsletter",
+        "settings": {
+          "title": "SIGN UP",
+          "text": "<p><\/p>\n<p>JOIN OUR EMAIL LIST AND <br>GET 15% OFF YOUR FIRST ORDER<\/p>"
+        }
+      },
+      "instagram": {
+        "type": "instagram",
+        "blocks": {
+          "1571230304154": {
+            "type": "post",
+            "settings": {
+              "link": "https:\/\/www.instagram.com\/p\/BrJ0q6PAXK-\/",
+              "product": "",
+              "account": "",
+              "caption": "We use the optimal alpaca wool blend to make our socks the softest you'll ever put on your feet.",
+              "likes": "101"
+            }
+          },
+          "1571175966535": {
+            "type": "post",
+            "settings": {
+              "link": "https:\/\/www.instagram.com\/p\/B4vgzOyDlB7\/",
+              "product": "nada-llama-socks",
+              "account": "",
+              "caption": "",
+              "likes": "95"
+            }
+          },
+          "1571184731838": {
+            "type": "post",
+            "settings": {
+              "link": "https:\/\/www.instagram.com\/p\/BubgkCKBIo-\/",
+              "product": "",
+              "account": "",
+              "caption": "",
+              "likes": "50"
+            }
+          },
+          "1571184886100": {
+            "type": "post",
+            "settings": {
+              "link": "https:\/\/www.instagram.com\/p\/B4VazxIn4DL\/",
+              "product": "",
+              "account": "",
+              "caption": "Austin, TX - Where Woodroad calls home",
+              "likes": "45"
+            }
+          },
+          "1571184992672": {
+            "type": "post",
+            "settings": {
+              "link": "https:\/\/www.instagram.com\/p\/Bqv_DfjAUs8\/",
+              "product": "nada-llama-socks",
+              "account": "",
+              "caption": "",
+              "likes": "68"
+            }
+          }
+        },
+        "block_order": [
+          "1571230304154",
+          "1571175966535",
+          "1571184731838",
+          "1571184886100",
+          "1571184992672"
+        ],
+        "settings": {
+          "enable_home": true,
+          "enable_product": true,
+          "enable_collection": true,
+          "title": "show us yours",
+          "description": "<p>Stay connected&nbsp;<a href=\"https:\/\/instagram.com\/woodroadgearco\" title=\"https:\/\/instagram.com\/woodroadgearco\">@woodroadgearco<\/a><\/p>"
+        }
+      },
+      "1571095871292": {
+        "type": "slideshow",
+        "blocks": {
+          "1571325879419": {
+            "type": "image",
+            "settings": {
+              "title": "NEVER COMPROMISE",
+              "title_size": 40,
+              "subheading": "SOCKS AS GOOD AS THE REST OF YOUR GEAR",
+              "link": "shopify:\/\/collections\/all",
+              "link_text": "shop now",
+              "text_align": "vertical-center horizontal-left",
+              "image": "shopify:\/\/shop_images\/Pettis-Product-7.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571095886909": {
+            "type": "image",
+            "settings": {
+              "title": "YOUR SOCKS STINK",
+              "title_size": 40,
+              "subheading": "OURS DON'T",
+              "link": "shopify:\/\/collections\/all",
+              "link_text": "shop now",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/Pettis-Product-4.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571095871292-0": {
+            "type": "image",
+            "settings": {
+              "title": "alpaca",
+              "title_size": 40,
+              "subheading": "NATURE'S GREATEST INSULATING FIBER",
+              "link": "shopify:\/\/pages\/the-alpaca-difference",
+              "link_text": "learn more",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/alpaca-wool.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571327424167": {
+            "type": "image",
+            "settings": {
+              "title": "COMMITTED TO SUSTAINABILITY",
+              "title_size": 40,
+              "subheading": "GOOD FOR YOUR SOUL . . . AND SOLES",
+              "link": "shopify:\/\/pages\/sustainability-at-woodroad",
+              "link_text": "LEARN MORE",
+              "text_align": "vertical-center horizontal-center",
+              "image": "shopify:\/\/shop_images\/Cruze-Environment-18-980.jpg",
+              "image_mobile": ""
+            }
+          }
+        },
+        "block_order": [
+          "1571325879419",
+          "1571095886909",
+          "1571095871292-0",
+          "1571327424167"
+        ],
+        "settings": {
+          "style": "dots",
+          "autoplay": true,
+          "autoplay_speed": 5
+        }
+      },
+      "1571096626235": {
+        "type": "hero-animated",
+        "disabled": true,
+        "blocks": {
+          "1571096626235-0": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_mobile": ""
+            }
+          },
+          "1571096626235-1": {
+            "type": "image",
+            "settings": {
+              "image": "",
+              "image_mobile": ""
+            }
+          }
+        },
+        "block_order": [
+          "1571096626235-0",
+          "1571096626235-1"
+        ],
+        "settings": {
+          "style": "fading",
+          "title": "Make an\ninstant impression",
+          "title_size": 80,
+          "subheading": "With fading or GIF-style animated images",
+          "link": "",
+          "link_text": "SHOP NOW",
+          "text_align": "vertical-center horizontal-right"
+        }
+      },
+      "1571146287894": {
+        "type": "logo-list",
+        "disabled": true,
+        "blocks": {
+          "1571146287894-3": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/STRONG-SOCKS_d3b0bd06-3e94-4873-9bed-6b85800699e7.jpg",
+              "link": ""
+            }
+          },
+          "1571146287894-0": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/STAY-DRY.jpg",
+              "link": ""
+            }
+          },
+          "1571146287894-1": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/COMFORTABLE.jpg",
+              "link": ""
+            }
+          },
+          "1571146287894-2": {
+            "type": "logo_image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/bike-text-2.jpg",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1571146287894-3",
+          "1571146287894-0",
+          "1571146287894-1",
+          "1571146287894-2"
+        ],
+        "settings": {
+          "title": "",
+          "logo_opacity": 76,
+          "alt": false
+        }
+      },
+      "1571147096056": {
+        "type": "advanced-content",
+        "disabled": true,
+        "blocks": {
+          "1571147096056-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Fishing-4.jpg",
+              "link": "",
+              "width": "50%",
+              "alignment": "top-middle"
+            }
+          },
+          "1571147096056-1": {
+            "type": "html",
+            "settings": {
+              "code": "<h2>THE WOODROAD DIFFERENCE<\/h2><p>Don't let soggy stinky socks keep you from maximizing your days. No other socks will keep you more comfortable while championing your passions or just relaxing. Feel the difference of feet, body, mind.<\/p>",
+              "width": "50%",
+              "alignment": "center"
+            }
+          }
+        },
+        "block_order": [
+          "1571147096056-0",
+          "1571147096056-1"
+        ],
+        "settings": {
+          "full_width": false,
+          "space_around": true,
+          "alt": false
+        }
+      },
+      "1571161725858": {
+        "type": "text-and-image",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/Koch-Product-18.jpg",
+          "image2": "",
+          "image_width": 460,
+          "subtitle": "",
+          "title": "HERE'S THE QUESTION",
+          "text": "<p>WHEN YOU'RE FRUSTRATED WITH PRODUCTS THAT DON'T PERFORM, WHAT DO YOU DO?&nbsp;<\/p>\n<p><\/p>\n<p>AT WOODROAD, WE DON'T WAIT FOR SOMEBODY ELSE TO FIX THE PROBLEM, WE TAKE MATTERS INTO OUR OWN HANDS AND DESIGN BETTER PRODUCTS.<\/p>\n<p><\/p>",
+          "button_label": "LEARN MORE",
+          "button_link": "shopify:\/\/pages\/about-woodroad-gear-co",
+          "button_style": "primary",
+          "layout": "left",
+          "alt": false
+        }
+      },
+      "1571176178640": {
+        "type": "hero-animated",
+        "disabled": true,
+        "blocks": {
+          "1571176178640-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hiking-socks.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571176178640-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/outdoor-socks-2.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571176348716": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Jones-Lifestyle-14_364d0cce-095e-44ab-882f-de579e66428e.jpg",
+              "image_mobile": ""
+            }
+          }
+        },
+        "block_order": [
+          "1571176178640-0",
+          "1571176178640-1",
+          "1571176348716"
+        ],
+        "settings": {
+          "style": "fading",
+          "title": "",
+          "title_size": 30,
+          "subheading": "",
+          "link": "",
+          "link_text": "",
+          "text_align": "vertical-bottom horizontal-center"
+        }
+      },
+      "1571182390159": {
+        "type": "hero-animated",
+        "disabled": true,
+        "blocks": {
+          "1571182390159-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Fishing-4_e9aa6ce7-4c7f-4ca0-8dd6-40ee6b57a5a3.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571182390159-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/pup-with-socks.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571182571176": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/elkhunt.jpg",
+              "image_mobile": ""
+            }
+          },
+          "1571183234057": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/sunset-on-water.jpg",
+              "image_mobile": ""
+            }
+          }
+        },
+        "block_order": [
+          "1571182390159-0",
+          "1571182390159-1",
+          "1571182571176",
+          "1571183234057"
+        ],
+        "settings": {
+          "style": "fading",
+          "title": "The Woodroad Difference",
+          "title_size": 48,
+          "subheading": "Don't let soggy stinky socks keep you from maximizing your days. No other socks will keep you more comfortable while championing your passions or just relaxing.",
+          "link": "",
+          "link_text": "Shop all",
+          "text_align": "vertical-center horizontal-center"
+        }
+      },
+      "1571188118346": {
+        "type": "text-columns",
+        "blocks": {
+          "1571188118346-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/nose.png",
+              "image_width": 150,
+              "title": "ANTI-STINK BLEND",
+              "text": "<p>REPELS DIRT &amp; BACTERIA SO YOU DON&rsquo;T REPEL YOUR GAME<\/p>",
+              "button_label": "",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          },
+          "1571188118346-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/fiber-technology.png",
+              "image_width": 150,
+              "title": "HOLLOW-CORE THERMAL TECHNOLOGY",
+              "text": "<p>REGULATES TEMPERATURE AND FEELS SOFT DOING IT<\/p>",
+              "button_label": "",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          },
+          "1571188187896": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/dry.png",
+              "image_width": 150,
+              "title": "DRY-ALL-DAY",
+              "text": "<p>WICKS SWEAT TO KEEP YOU COMFORTABLE<\/p>",
+              "button_label": "",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          },
+          "1571188592774": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/anvil.png",
+              "image_width": 150,
+              "title": "DURABILITY DESIGN",
+              "text": "<p>BLENDS NATURE &amp; TECHNOLOGY TO BUILD BETTER GEAR<\/p>",
+              "button_label": "",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "1571188118346-0",
+          "1571188118346-1",
+          "1571188187896",
+          "1571188592774"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "center",
+          "alt": false
+        }
+      },
+      "1571189700419": {
+        "type": "background-image-text",
+        "disabled": true,
+        "settings": {
+          "subtitle": "",
+          "title": "INTENTIONAL DESIGN",
+          "text": "<p>Founded on our simple principle of &ldquo;Never Compromise,&rdquo; we utilize purpose-driven design, innovative materials, and leading construction technologies to make the most durable and comfortable socks on the planet.<\/p>\n<p>We believe that you shouldn&rsquo;t have to settle for comfort or durability; that you can have both.&nbsp; Our socks are with you every step of the way.<\/p>",
+          "button_label": "FIND YOUR FIT",
+          "button_link": "shopify:\/\/collections\/all",
+          "image": "shopify:\/\/shop_images\/binoculars.jpg",
+          "alignment": "top left",
+          "color_border": "#f4f4f4",
+          "layout": "right",
+          "height": 750
+        }
+      },
+      "1571336027908": {
+        "type": "text-columns",
+        "disabled": true,
+        "blocks": {
+          "1571336027908-0": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Fishing-4-SQUARE.jpg",
+              "image_width": 650,
+              "title": "",
+              "text": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1571336027908-1": {
+            "type": "text_block",
+            "settings": {
+              "enable_image": true,
+              "image": "shopify:\/\/shop_images\/Fien-Environment-6-3.jpg",
+              "image_width": 650,
+              "title": "THE WOODWARD DIFFERENCE",
+              "text": "<p>&ldquo;Why Woodroad? \/ &nbsp; The Woodroad Difference \/ ETC.&rdquo; or The Longest&nbsp;<\/p>\n<p>Lasting Sock .&nbsp;<\/p>\n<p><\/p>\n<p>INSERT COPY<\/p>",
+              "button_label": "SHOP",
+              "button_link": "shopify:\/\/collections\/all"
+            }
+          }
+        },
+        "block_order": [
+          "1571336027908-0",
+          "1571336027908-1"
+        ],
+        "settings": {
+          "title": "",
+          "align_text": "center",
+          "alt": false
+        }
+      },
+      "1573242192101": {
+        "type": "hero-animated",
+        "blocks": {
+          "1573242192101-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/veterans-day-sale-mobile.jpg",
+              "image_mobile": ""
+            }
+          }
+        },
+        "block_order": [
+          "1573242192101-1"
+        ],
+        "settings": {
+          "style": "gif",
+          "title": "",
+          "title_size": 80,
+          "subheading": "",
+          "link": "shopify:\/\/pages\/socks-for-veterans-sale",
+          "link_text": "",
+          "text_align": "vertical-center horizontal-center"
+        }
+      },
+      "1573251872616": {
+        "type": "featured-content",
+        "settings": {
+          "title": "",
+          "text": "<p><strong>Get your 20% off discount with&nbsp;<a href=\"https:\/\/shopify.id.me\/oauth\/groups\/apline-stride\" title=\"https:\/\/shopify.id.me\/oauth\/groups\/apline-stride\">ID.me<\/a>&nbsp;verification<\/strong><\/p>",
+          "align_text": "center",
+          "narrow_column": false,
+          "enlarge_text": true,
+          "alt": false
+        }
+      }
+    },
+    "content_for_index": [
+      "1571095871292",
+      "1559585995085",
+      "1559098181700",
+      "1571188118346",
+      "1571161725858",
+      "1573242192101",
+      "1573251872616",
+      "1559586187853",
+      "1571336027908",
+      "1571189700419",
+      "1571182390159",
+      "1571146287894",
+      "1571176178640",
+      "1571096626235",
+      "1571147096056",
+      "1556162914490"
+    ]
+  },
+  "presets": {
+    "Core": {
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_button": "#000000",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#ff4f33",
+      "color_alt_bg": "#f9f9f9",
+      "color_alt_text": "#000000",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_newsletter": "#531932",
+      "color_newsletter_text": "#fff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_text": "#fff",
+      "color_image_overlay": "#000",
+      "color_image_overlay_opacity": 10,
+      "color_small_image_bg": "#f0f0f0",
+      "color_large_image_bg": "#000000",
+      "type_header_font_family": "roboto_condensed_i7",
+      "type_header_capitalize": true,
+      "type_header_spacing": "-25",
+      "type_header_base_size": 46,
+      "type_header_line_height": 1,
+      "type_base_font_family": "roboto_condensed_n4",
+      "type_product_capitalize": false,
+      "type_base_spacing": "25",
+      "type_base_size": 18,
+      "type_base_line_height": 1.6,
+      "button_style": "round",
+      "animate_images": true,
+      "animate_page_transitions": true,
+      "desktop_loader_width": 100,
+      "mobile_loader_width": 100,
+      "product_save_type": "dollar",
+      "product_image_scatter": false,
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_grid_image_size": "natural",
+      "product_video_style": "muted",
+      "additional_content_style": "tab",
+      "product_contact": false,
+      "product_contact_show_phone": false,
+      "cart_type": "sticky",
+      "cart_additional_buttons": false,
+      "cart_notes_enable": false,
+      "cart_terms_conditions_enable": false,
+      "cart_terms_conditions_link": "#",
+      "currency_format": "money_format",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#111111",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "animate_page_transition_style": "page-logo",
+      "animate_images_style": "fade-in",
+      "animate_underlines": true,
+      "color_borders": "#4f1c3a",
+      "color_drawer_border": "#e8e8e1",
+      "color_drawer_button": "#561d3a",
+      "color_drawer_button_text": "#fff6f0",
+      "color_modal_overlays": "#000",
+      "color_footer": "#fff6f0",
+      "color_footer_text": "#4f1c3a",
+      "color_image_2": "#000000",
+      "color_image_2_opacity": 0,
+      "color_image_1": "#000000",
+      "color_image_1_opacity": 0,
+      "animate_sections": true,
+      "animate_sections_background_style": "fade-in",
+      "animate_sections_text_style": "rise-up",
+      "color_header": "#fff6f0",
+      "color_header_text": "#4f1c3a",
+      "type_header_header_transform": false,
+      "type_header_accent_transform": false,
+      "type_headers_align_text": true,
+      "type_base_accent_transform": true,
+      "icon_weight": "4px",
+      "icon_linecaps": "miter",
+      "product_grid_size": "medium",
+      "reviews_layout": "full",
+      "animate_buttons": true,
+      "color_image_bg": "#000000",
+      "color_sale_tag": "#990000",
+      "color_input": "#ffffff",
+      "checkout_banner_background_color": "#fff",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_use_header_image": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": false,
+            "header_search_enable": false,
+            "show_announcement": false,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": false,
+            "show_social_icons": true,
+            "menu": "footer",
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_enable": true,
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {}
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "alignment": "center",
+                "layout": "right",
+                "height": 750
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {}
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1559681273277": {
+              "type": "image-hero",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-center horizontal-center"
+              }
+            },
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 450,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {}
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "large"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 60,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            }
+          },
+          "block_order": [
+            "1559681273277",
+            "1558643031646",
+            "1558643392013",
+            "1558643431127",
+            "1558643225272"
+          ],
+          "settings": {
+            "page_title_enable": false,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "1543003878234": {
+          "type": "featured-collections",
+          "blocks": {
+            "1543003878234-0": {
+              "type": "collection",
+              "settings": {}
+            },
+            "1543003878234-1": {
+              "type": "collection",
+              "settings": {}
+            },
+            "1543003878234-2": {
+              "type": "collection",
+              "settings": {}
+            },
+            "1543003878234-3": {
+              "type": "collection",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1543003878234-0",
+            "1543003878234-1",
+            "1543003878234-2",
+            "1543003878234-3"
+          ],
+          "settings": {
+            "alt": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {}
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559096311192": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559096311192-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "1559097202495": {
+              "type": "image",
+              "settings": {}
+            },
+            "1559096311192-2": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1559096311192-0",
+            "1559097202495",
+            "1559096311192-2"
+          ],
+          "settings": {
+            "style": "gif",
+            "title_size": 82,
+            "text_align": "vertical-center horizontal-left"
+          }
+        },
+        "1559098181700": {
+          "type": "slideshow",
+          "blocks": {
+            "1559098181700-0": {
+              "type": "image",
+              "settings": {
+                "title_size": 80,
+                "text_align": "vertical-bottom horizontal-left"
+              }
+            }
+          },
+          "block_order": [
+            "1559098181700-0"
+          ],
+          "settings": {}
+        },
+        "1559321610782": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true
+          }
+        },
+        "1559585995085": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1559586187853": {
+          "type": "newsletter",
+          "settings": {}
+        },
+        "1559687247066": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_style": "primary",
+            "layout": "right"
+          }
+        },
+        "1559687361077": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_style": "primary",
+            "layout": "left"
+          }
+        },
+        "1559687710135": {
+          "type": "map",
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "1559321610782",
+        "1559585995085",
+        "1558626745581",
+        "1559096311192",
+        "1556162914490",
+        "1559098181700",
+        "1556162802939",
+        "1543003878234",
+        "1559687247066",
+        "1559687361077",
+        "1559586187853",
+        "1559687710135"
+      ]
+    },
+    "Luxe": {
+      "color_body_bg": "#fdfbfa",
+      "color_body_text": "#333029",
+      "color_button": "#c67066",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#c67066",
+      "color_alt_bg": "#ffffff",
+      "color_alt_text": "#333029",
+      "color_announcement": "#c67066",
+      "color_announcement_text": "#ffffff",
+      "color_newsletter": "#c67066",
+      "color_newsletter_text": "#ffffff",
+      "color_drawer_background": "#fdf9f5",
+      "color_drawer_text": "#333029",
+      "color_image_text": "#fff",
+      "color_image_overlay": "#000",
+      "color_image_overlay_opacity": 10,
+      "color_small_image_bg": "#fdfbfa",
+      "color_large_image_bg": "#eee5e0",
+      "type_header_font_family": "itc_novarese_n5",
+      "type_header_capitalize": false,
+      "type_header_spacing": "0",
+      "type_header_base_size": 50,
+      "type_header_line_height": 1.1,
+      "type_base_font_family": "futura_n4",
+      "type_product_capitalize": false,
+      "type_base_spacing": "25",
+      "type_base_size": 18,
+      "type_base_line_height": 1.7,
+      "button_style": "shadow",
+      "animate_images": true,
+      "animate_page_transitions": true,
+      "desktop_loader_width": 140,
+      "mobile_loader_width": 130,
+      "product_save_type": "dollar",
+      "product_image_scatter": false,
+      "product_hover_details": true,
+      "product_hover_image": true,
+      "product_grid_image_size": "natural",
+      "product_video_style": "muted",
+      "additional_content_style": "tab",
+      "product_contact": false,
+      "product_contact_show_phone": false,
+      "cart_type": "sticky",
+      "cart_additional_buttons": false,
+      "cart_notes_enable": false,
+      "cart_terms_conditions_enable": false,
+      "currency_format": "money_format",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#111111",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "animate_page_transition_style": "page-logo",
+      "animate_images_style": "fade-in",
+      "animate_underlines": true,
+      "color_borders": "#4f1c3a",
+      "color_drawer_border": "#e8e8e1",
+      "color_drawer_button": "#561d3a",
+      "color_drawer_button_text": "#fff6f0",
+      "color_modal_overlays": "#000",
+      "color_footer": "#fff6f0",
+      "color_footer_text": "#4f1c3a",
+      "color_image_2": "#000000",
+      "color_image_2_opacity": 0,
+      "color_image_1": "#000000",
+      "color_image_1_opacity": 0,
+      "animate_sections": true,
+      "animate_sections_background_style": "fade-in",
+      "animate_sections_text_style": "rise-up",
+      "color_header": "#fff6f0",
+      "color_header_text": "#4f1c3a",
+      "type_header_header_transform": false,
+      "type_header_accent_transform": false,
+      "type_headers_align_text": true,
+      "type_base_accent_transform": true,
+      "icon_weight": "4px",
+      "icon_linecaps": "miter",
+      "product_grid_size": "medium",
+      "reviews_layout": "full",
+      "animate_buttons": true,
+      "color_image_bg": "#000000",
+      "color_sale_tag": "#990000",
+      "color_input": "#ffffff",
+      "checkout_banner_background_color": "#fff",
+      "checkout_call_to_action_color": "#a26b25",
+      "checkout_use_header_image": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": false,
+            "show_announcement": true,
+            "show_announcement_home_only": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": true,
+            "show_social_icons": true,
+            "show_payment_icons": false,
+            "show_copyright": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_enable": true,
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {}
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": false
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": false,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "layout": "right",
+                "height": 750
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {}
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643225272": {
+              "type": "hero-video",
+              "settings": {
+                "title": "Keep it short\nand sweet.",
+                "title_size": 47,
+                "subheading": "Explain your brand in more depth on your product pages",
+                "text_align": "vertical-center horizontal-center",
+                "section_height": "750px",
+                "mobile_height": "100vh"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            },
+            "1558643392013": {
+              "type": "map",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643225272",
+            "1558643431127",
+            "1558643392013"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {
+            "title_enable": true,
+            "display_type": "all"
+          }
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {
+            "image_width": 700,
+            "button_style": "btn",
+            "layout": "right"
+          }
+        },
+        "1555439851826": {
+          "type": "background-image-text",
+          "settings": {
+            "alignment": "center right",
+            "color_border": "#4f1c3a",
+            "layout": "right",
+            "height": 750
+          }
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1558625522348": {
+          "type": "background-image-text",
+          "settings": {
+            "alignment": "center right",
+            "color_border": "#4f1c3a",
+            "layout": "left",
+            "height": 750
+          }
+        },
+        "1558626497917": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-center horizontal-center",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        },
+        "1558626745581": {
+          "type": "featured-content",
+          "settings": {
+            "align_text": "center",
+            "narrow_column": true,
+            "enlarge_text": true
+          }
+        },
+        "1559155590855": {
+          "type": "text-columns",
+          "blocks": {
+            "1559155590855-0": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason one"
+              }
+            },
+            "1559155590855-1": {
+              "type": "text_block",
+              "settings": {
+                "enable_image": false,
+                "title": "Reason two"
+              }
+            }
+          },
+          "block_order": [
+            "1559155590855-0",
+            "1559155590855-1"
+          ],
+          "settings": {
+            "title": "Why choose us?",
+            "align_text": "center",
+            "alt": true
+          }
+        },
+        "password-header": {
+          "type": "password-header",
+          "settings": {}
+        },
+        "password-content": {
+          "type": "password-content",
+          "settings": {
+            "newsletter_enable": true,
+            "show_share_buttons": false,
+            "show_image": true
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "small"
+          }
+        }
+      },
+      "content_for_index": [
+        "1558626497917",
+        "1556162914490",
+        "1558626745581",
+        "1555097143929",
+        "1555439851826",
+        "1559155590855",
+        "1556162802939",
+        "1558625522348"
+      ]
+    },
+    "Hype": {
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#000000",
+      "color_button": "#000000",
+      "color_button_text": "#ffffff",
+      "color_cart_dot": "#ff4f33",
+      "color_alt_bg": "#000000",
+      "color_alt_text": "#ffffff",
+      "color_announcement": "#000000",
+      "color_announcement_text": "#ffffff",
+      "color_newsletter": "#000000",
+      "color_newsletter_text": "#fff",
+      "color_drawer_background": "#ffffff",
+      "color_drawer_text": "#000000",
+      "color_image_text": "#fff",
+      "color_image_overlay": "#000",
+      "color_image_overlay_opacity": 10,
+      "color_small_image_bg": "#f2f2f2",
+      "color_large_image_bg": "#000000",
+      "type_header_font_family": "basic_commercial_n7",
+      "type_header_capitalize": true,
+      "type_header_spacing": "25",
+      "type_header_base_size": 48,
+      "type_header_line_height": 0.9,
+      "type_base_font_family": "basic_commercial_n7",
+      "type_product_capitalize": true,
+      "type_base_spacing": "25",
+      "type_base_size": 20,
+      "type_base_line_height": 1.3,
+      "button_style": "shadow",
+      "animate_images": false,
+      "animate_page_transitions": true,
+      "desktop_loader_width": 190,
+      "mobile_loader_width": 180,
+      "product_save_type": "dollar",
+      "product_image_scatter": true,
+      "product_hover_details": false,
+      "product_hover_image": true,
+      "product_grid_image_size": "natural",
+      "product_video_style": "muted",
+      "additional_content_style": "tab",
+      "product_contact": false,
+      "product_contact_show_phone": false,
+      "cart_type": "sticky",
+      "cart_additional_buttons": false,
+      "cart_notes_enable": false,
+      "cart_terms_conditions_enable": false,
+      "cart_terms_conditions_link": "#",
+      "currency_format": "money_format",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#111111",
+      "checkout_button_color": "#111111",
+      "checkout_error_color": "#ff6d6d",
+      "animate_page_transition_style": "page-logo",
+      "animate_images_style": "fade-in",
+      "animate_underlines": true,
+      "color_borders": "#4f1c3a",
+      "color_drawer_border": "#e8e8e1",
+      "color_drawer_button": "#561d3a",
+      "color_drawer_button_text": "#fff6f0",
+      "color_modal_overlays": "#000",
+      "color_footer": "#fff6f0",
+      "color_footer_text": "#4f1c3a",
+      "color_image_2": "#000000",
+      "color_image_2_opacity": 0,
+      "color_image_1": "#000000",
+      "color_image_1_opacity": 0,
+      "animate_sections": true,
+      "animate_sections_background_style": "fade-in",
+      "animate_sections_text_style": "rise-up",
+      "color_header": "#fff6f0",
+      "color_header_text": "#4f1c3a",
+      "type_header_header_transform": false,
+      "type_header_accent_transform": false,
+      "type_headers_align_text": true,
+      "type_base_accent_transform": true,
+      "icon_weight": "4px",
+      "icon_linecaps": "miter",
+      "product_grid_size": "medium",
+      "reviews_layout": "full",
+      "animate_buttons": true,
+      "color_image_bg": "#000000",
+      "color_sale_tag": "#990000",
+      "color_input": "#ffffff",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "sticky_index": true,
+            "sticky_collection": true,
+            "header_search_enable": false,
+            "show_announcement": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "show_newsletter": false
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "collection_image_enable": true,
+            "per_row_desktop": 3
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {}
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_image": true,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false,
+            "social_sharing_blog": true
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "blog_show_tag_filter": true,
+            "blog_show_rss": false,
+            "blog_show_tags": true,
+            "blog_show_date": true,
+            "blog_show_comments": true,
+            "blog_show_author": false
+          }
+        },
+        "product-sections": {
+          "type": "product-sections",
+          "blocks": {
+            "product-text-columns": {
+              "type": "text-columns",
+              "settings": {
+                "title": "Why choose us?",
+                "align_text": "center",
+                "alt": true,
+                "enable_image_1": false,
+                "image_width_1": 650,
+                "title_1": "Reason one",
+                "text_1": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_2": false,
+                "image_width_2": 650,
+                "title_2": "Reason two",
+                "text_2": "<p>Use this section to explain your company philosophy or standards. Add images for emphasis. This content will appear on all products.<\/p>",
+                "enable_image_3": false,
+                "image_width_3": 650,
+                "title_3": "",
+                "text_3": ""
+              }
+            },
+            "product-text-and-image": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 700,
+                "text": "<p>Pair large text with an image to tell a story, explain a detail about your products, or describe a new promotion.<\/p>",
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "product-background-image-text": {
+              "type": "background-image-text",
+              "settings": {
+                "alignment": "center",
+                "layout": "right",
+                "height": 750
+              }
+            }
+          },
+          "block_order": [
+            "product-text-columns",
+            "product-text-and-image",
+            "product-background-image-text"
+          ],
+          "settings": {}
+        },
+        "page-sections-template": {
+          "type": "page-sections-template",
+          "blocks": {
+            "1558643031646": {
+              "type": "text-and-image",
+              "settings": {
+                "image_width": 400,
+                "button_style": "primary",
+                "layout": "right"
+              }
+            },
+            "1558643431127": {
+              "type": "collection-slider",
+              "settings": {
+                "per_row": "small"
+              }
+            }
+          },
+          "block_order": [
+            "1558643031646",
+            "1558643431127"
+          ],
+          "settings": {
+            "page_title_enable": true,
+            "page_content_enable": true
+          }
+        },
+        "newsletter-popup": {
+          "type": "newsletter-popup",
+          "settings": {
+            "mode": "disabled",
+            "popup_seconds": 5,
+            "popup_days": 30,
+            "enable_newsletter": true
+          }
+        },
+        "list-collections-template": {
+          "type": "list-collections-template",
+          "settings": {}
+        },
+        "1555097143929": {
+          "type": "text-and-image",
+          "settings": {}
+        },
+        "1556162802939": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1556162914490": {
+          "type": "featured-collection-slider",
+          "settings": {}
+        },
+        "1559240039950": {
+          "type": "hero-animated",
+          "blocks": {
+            "1559240039950-0": {
+              "type": "image",
+              "settings": {}
+            },
+            "1559240039950-1": {
+              "type": "image",
+              "settings": {}
+            },
+            "1559309176406": {
+              "type": "image",
+              "settings": {}
+            }
+          },
+          "block_order": [
+            "1559240039950-0",
+            "1559240039950-1",
+            "1559309176406"
+          ],
+          "settings": {
+            "style": "gif",
+            "title_size": 72,
+            "text_align": "vertical-bottom horizontal-right"
+          }
+        },
+        "1559241610369": {
+          "type": "marquee",
+          "settings": {
+            "text": "☞ FREE SHIPPING AND RETURNS",
+            "text_size": 70,
+            "text_spacing": true,
+            "color_scheme": "text",
+            "direction": "left"
+          }
+        },
+        "product-recommendations": {
+          "type": "product-recommendations",
+          "settings": {
+            "show_product_recommendations": true,
+            "per_row": "large"
+          }
+        },
+        "1559249041610": {
+          "type": "hero-video",
+          "settings": {
+            "title": "Keep it short\nand sweet.",
+            "title_size": 80,
+            "subheading": "Explain your brand in more depth on your product pages",
+            "text_align": "vertical-bottom horizontal-left",
+            "section_height": "750px",
+            "mobile_height": "100vh"
+          }
+        }
+      },
+      "content_for_index": [
+        "1559240039950",
+        "1555097143929",
+        "1559241610369",
+        "1556162914490",
+        "1559249041610",
+        "1556162802939"
+      ]
+    }
+  }
+}
